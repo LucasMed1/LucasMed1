@@ -19,7 +19,7 @@ Sou estudante de Tecnologia da Informação pela UFRN, atualmente direcionando m
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,java,git,github,vscode" />
 </p>
 
 ---
