@@ -2,15 +2,14 @@
 
 💡 Focado em construir aplicações web e transformar ideias em produtos digitais
 
-Sou estudante de Tecnologia da Informação pela UFRN, atualmente direcionando meus estudos para desenvolvimento front-end com React e modelagem de dados, buscando criar aplicações modernas, funcionais e com impacto real.
+Sou estudante de Tecnologia da Informação pela UFRN, atualmente direcionando meus estudos para desenvolvimento front-end com React e modelagem de dados. Tenho interesse em criar aplicações modernas, bem estruturadas e que realmente sejam úteis no dia a dia.
 
-Acredito que código é ferramenta — mas produto e execução são o que realmente geram valor.
+“Faça ou não faça. Tentativa não há.” — Yoda
 
 ---
 
 ## 🚀 Atualmente explorando
 ⚛️ React  
-🧠 JavaScript  
 🗄️ Banco de dados (SQL)  
 🔗 Integração entre sistemas  
 🌐 Desenvolvimento web  
@@ -20,17 +19,10 @@ Acredito que código é ferramenta — mas produto e execução são o que realm
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,git,github,vscode" />
 </p>
 
 ---
-
-## 🎯 Objetivo
-
-Construir aplicações úteis, evoluir como desenvolvedor e utilizar tecnologia como meio para gerar renda e liberdade.
-
----
-
 
 ## 🌍 Contato
 
